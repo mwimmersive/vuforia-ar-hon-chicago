@@ -12,7 +12,6 @@ public class SimpleCloudHandler : MonoBehaviour, ICloudRecoEventHandler
 {
 	// Value grabbed by cloud and shared with testTouch.cs
 	public string metaData_Content;
-	public bool showStaticObject;
 
 	void MobileVibrate() {
 
@@ -116,7 +115,6 @@ public class SimpleCloudHandler : MonoBehaviour, ICloudRecoEventHandler
 		metaData_Content = targetSearchResult.MetaData;
 //		Debug.Log (metaData_Content);
 		string model_name = "myCube";
-		showStaticObject = true;
 
 		MobileVibrate ();
 
@@ -124,6 +122,7 @@ public class SimpleCloudHandler : MonoBehaviour, ICloudRecoEventHandler
 		//
 		// This snippet makes big assumption that the gameObjects's name must always be myCube.
 		// From this point on, metadata should only include information about the sign, --> the sign name, url
+		// Place the actual object underneath myCube
 		//
 		// ***************
 
