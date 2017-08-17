@@ -11,16 +11,6 @@ This application recognizes Chicago's honorary street signs and displays 3D augm
 * In order to find out more information about the sign, the user can touch or tap the spinning object
 * The user will then be prompted with an alert that contains the name of the sign along with two buttons allowing them to eith er keep examing the sign or to proceed to a webpage that gives a summary of the sign
 
-## Hierarchy and GameObject Notes
-###### Directional Light, Event System
-Static, don't change
-###### ARCamera
-Vuforia Prefab, 
-* Camera
-Static
-###### Directional Light 
-###### Directional Light 
-
 
 ![above-sign](https://i.imgur.com/zZw0aSU.png "Object above sign")
 ![alert-menu](https://i.imgur.com/ygaF4pc.png "Alert menu")
