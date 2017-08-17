@@ -12,5 +12,5 @@ This application recognizes Chicago's honorary street signs and displays 3D augm
 * The user will then be prompted with an alert that contains the name of the sign along with two buttons allowing them to eith er keep examing the sign or to proceed to a webpage that gives a summary of the sign
 
 
-![above-sign](https://i.imgur.com/zZw0aSU.png "Object above sign" =200x)
-![alert-menu](https://i.imgur.com/ygaF4pc.png "Alert menu" =200x)
+![above-sign](https://i.imgur.com/zZw0aSU.png "Object above sign")
+![alert-menu](https://i.imgur.com/ygaF4pc.png "Alert menu")
