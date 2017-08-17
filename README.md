@@ -1,12 +1,4 @@
 # vuforia-ar-hon-chicago
-<<<<<<< HEAD
-Augmented reality application using Unity 3D and the Vuforia platform that recognizes Chicago's honorary street signs and displays 3D augmented reality content tailored to the sign
-
-
-
-
-
-=======
 This application recognizes Chicago's honorary street signs and displays 3D augmented reality content tailored to the sign. The project was built in Unity 3D and uses Vuforia platform for image recognition.
 
 ## Usage
@@ -22,4 +14,3 @@ This application recognizes Chicago's honorary street signs and displays 3D augm
 
 ![above-sign](https://i.imgur.com/zZw0aSU.png "Object above sign")
 ![alert-menu](https://i.imgur.com/ygaF4pc.png "Alert menu")
->>>>>>> 5239196c9794c3ee0f9a2eee6a3369c50d99bd01
